@@ -1,5 +1,1 @@
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/viettl/count.svg" />
-</p>
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
